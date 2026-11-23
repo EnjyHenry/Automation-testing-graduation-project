@@ -1,0 +1,8 @@
+{
+  "validusername": "Admin",
+  "validpassword": "admin123",
+  "invalidusername": "invalid",
+  "invalidpassword": "inavlid",
+  "existingemployee": "Peter",
+  "nonexistingemployee": "never"
+}
