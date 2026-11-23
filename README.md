@@ -1,3 +1,4 @@
+<img width="1910" height="972" alt="لقطة شاشة 2026-11-23 180412" src="https://github.com/user-attachments/assets/a622021c-67f8-4d94-9d7d-04ad564d0173" />
 # OrangeHRM Automation Testing Project
 
 UI test automation framework for the [OrangeHRM Open Source Demo](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login), built with **Selenium WebDriver**, **TestNG** and the **Page Object Model (POM)**.
